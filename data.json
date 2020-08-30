@@ -1,0 +1,177 @@
+[
+ {
+   "Time Stamp": "01:00",
+   "Nagios": 1,
+   "Netdata": 9,
+   "Zabbix": 4,
+   "JAPMRMT": 7
+ },
+ {
+   "Time Stamp": "01:05",
+   "Nagios": 4,
+   "Netdata": 12,
+   "Zabbix": 8,
+   "JAPMRMT": 8
+ },
+ {
+   "Time Stamp": "01:10",
+   "Nagios": 5,
+   "Netdata": 14,
+   "Zabbix": 9,
+   "JAPMRMT": 18
+ },
+ {
+   "Time Stamp": "01:15",
+   "Nagios": 8,
+   "Netdata": 19,
+   "Zabbix": 11,
+   "JAPMRMT": 20
+ },
+ {
+   "Time Stamp": "01:20",
+   "Nagios": 15,
+   "Netdata": 25,
+   "Zabbix": 14,
+   "JAPMRMT": 23
+ },
+ {
+   "Time Stamp": "01:25",
+   "Nagios": 18,
+   "Netdata": 28,
+   "Zabbix": 19,
+   "JAPMRMT": 25
+ },
+ {
+   "Time Stamp": "01:30",
+   "Nagios": 19,
+   "Netdata": 29,
+   "Zabbix": 21,
+   "JAPMRMT": 27
+ },
+ {
+   "Time Stamp": "01:35",
+   "Nagios": 20,
+   "Netdata": 30,
+   "Zabbix": 22,
+   "JAPMRMT": 31
+ },
+ {
+   "Time Stamp": "01:40",
+   "Nagios": 22,
+   "Netdata": 41,
+   "Zabbix": 27,
+   "JAPMRMT": 34
+ },
+ {
+   "Time Stamp": "01:45",
+   "Nagios": 29,
+   "Netdata": 47,
+   "Zabbix": 28,
+   "JAPMRMT": 37
+ },
+ {
+   "Time Stamp": "01:50",
+   "Nagios": 36,
+   "Netdata": 52,
+   "Zabbix": 32,
+   "JAPMRMT": 38
+ },
+ {
+   "Time Stamp": "01:55",
+   "Nagios": 45,
+   "Netdata": 53,
+   "Zabbix": 36,
+   "JAPMRMT": 41
+ },
+ {
+   "Time Stamp": "02:00",
+   "Nagios": 46,
+   "Netdata": 54,
+   "Zabbix": 40,
+   "JAPMRMT": 42
+ },
+ {
+   "Time Stamp": "02:05",
+   "Nagios": 49,
+   "Netdata": 55,
+   "Zabbix": 42,
+   "JAPMRMT": 45
+ },
+ {
+   "Time Stamp": "02:10",
+   "Nagios": 53,
+   "Netdata": 64,
+   "Zabbix": 47,
+   "JAPMRMT": 47
+ },
+ {
+   "Time Stamp": "02:15",
+   "Nagios": 54,
+   "Netdata": 75,
+   "Zabbix": 48,
+   "JAPMRMT": 52
+ },
+ {
+   "Time Stamp": "02:20",
+   "Nagios": 60,
+   "Netdata": 76,
+   "Zabbix": 61,
+   "JAPMRMT": 53
+ },
+ {
+   "Time Stamp": "02:25",
+   "Nagios": 63,
+   "Netdata": 77,
+   "Zabbix": 62,
+   "JAPMRMT": 70
+ },
+ {
+   "Time Stamp": "02:30",
+   "Nagios": 64,
+   "Netdata": 79,
+   "Zabbix": 67,
+   "JAPMRMT": 76
+ },
+ {
+   "Time Stamp": "02:35",
+   "Nagios": 73,
+   "Netdata": 82,
+   "Zabbix": 71,
+   "JAPMRMT": 77
+ },
+ {
+   "Time Stamp": "02:40",
+   "Nagios": 75,
+   "Netdata": 85,
+   "Zabbix": 74,
+   "JAPMRMT": 78
+ },
+ {
+   "Time Stamp": "02:45",
+   "Nagios": 80,
+   "Netdata": 88,
+   "Zabbix": 81,
+   "JAPMRMT": 79
+ },
+ {
+   "Time Stamp": "02:50",
+   "Nagios": 87,
+   "Netdata": 94,
+   "Zabbix": 89,
+   "JAPMRMT": 90
+ },
+ {
+   "Time Stamp": "02:55",
+   "Nagios": 92,
+   "Netdata": 99,
+   "Zabbix": 95,
+   "JAPMRMT": 65
+ },
+ {
+   "Time Stamp": "03:00",
+   "Nagios": 100,
+   "Netdata": 100,
+   "Zabbix": 100,
+   "JAPMRMT": 70
+ }
+]
